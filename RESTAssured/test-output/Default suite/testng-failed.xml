@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Session_04.CheckForValidResponse">
+      <class name="session_07.QueryParameter">
         <methods>
-          <include name="GetSingleUserUSingValidateResponse"/>
+          <include name="filterData"/>
         </methods>
-      </class> <!-- Session_04.CheckForValidResponse -->
+      </class> <!-- session_07.QueryParameter -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
