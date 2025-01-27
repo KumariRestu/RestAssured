@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session_09.BearerTokenAuth">
+      <class name="session_10.APIKey">
         <methods>
-          <include name="BearerToken"/>
+          <include name="getWeatherData"/>
         </methods>
-      </class> <!-- session_09.BearerTokenAuth -->
+      </class> <!-- session_10.APIKey -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
