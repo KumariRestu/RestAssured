@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session_10.APIKey">
+      <class name="session_12.deserializationDemo">
         <methods>
-          <include name="getWeatherData"/>
+          <include name="createUser"/>
         </methods>
-      </class> <!-- session_10.APIKey -->
+      </class> <!-- session_12.deserializationDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
