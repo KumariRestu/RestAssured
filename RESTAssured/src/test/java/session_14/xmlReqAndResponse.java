@@ -64,7 +64,8 @@ public class xmlReqAndResponse {
 
 		// http://restapi.adequateshop.com/api/Tourist?page=1
 		Response resGetTraveller = RestAssured.given().baseUri("http://restapi.adequateshop.com")
-				.basePath("/api/Traveler").queryParam("page", 1).header("accept", "application/xml").get();
+				.basePath("/api/Traveler").queryParam("page", 1)
+				.header("accept", "application/xml").get();
 
 		System.out.println("Response Body of GetTravellersData  :" + resGetTraveller.asPrettyString());
 		System.out.println("Response StatusCode ofGetTravellersData:" + resGetTraveller.statusCode());

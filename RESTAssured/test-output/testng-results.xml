@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-28T13:05:17 IST" name="Default suite" finished-at="2025-01-28T13:05:21 IST" duration-ms="3966">
+  <suite started-at="2025-02-03T10:25:17 IST" name="Default suite" finished-at="2025-02-03T10:25:21 IST" duration-ms="3587">
     <groups>
     </groups>
-    <test started-at="2025-01-28T13:05:17 IST" name="Default test" finished-at="2025-01-28T13:05:21 IST" duration-ms="3966">
-      <class name="session_14.xmlReqAndResponse">
-        <test-method signature="AddPetWithXMLPayload()[pri:2, instance:session_14.xmlReqAndResponse@6c1a5b54]" started-at="2025-01-28T13:05:17 IST" name="AddPetWithXMLPayload" finished-at="2025-01-28T13:05:21 IST" duration-ms="3932" status="PASS">
+    <test started-at="2025-02-03T10:25:17 IST" name="Default test" finished-at="2025-02-03T10:25:21 IST" duration-ms="3587">
+      <class name="session_16.createMultipleUser">
+        <test-method signature="createUserUsingJSONList()[pri:0, instance:session_16.createMultipleUser@6574a52c]" started-at="2025-02-03T10:25:17 IST" name="createUserUsingJSONList" finished-at="2025-02-03T10:25:21 IST" duration-ms="3549" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- AddPetWithXMLPayload -->
-      </class> <!-- session_14.xmlReqAndResponse -->
+        </test-method> <!-- createUserUsingJSONList -->
+      </class> <!-- session_16.createMultipleUser -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

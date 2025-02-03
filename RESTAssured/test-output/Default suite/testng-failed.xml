@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session_14.xmlReqAndResponse">
+      <class name="session_15.JSONObjectUsingJavaMapDemo">
         <methods>
-          <include name="addPetWithXMLPayload"/>
+          <include name="createUser"/>
         </methods>
-      </class> <!-- session_14.xmlReqAndResponse -->
+      </class> <!-- session_15.JSONObjectUsingJavaMapDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
