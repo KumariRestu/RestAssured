@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-03T10:25:17 IST" name="Default suite" finished-at="2025-02-03T10:25:21 IST" duration-ms="3587">
+  <suite started-at="2025-02-04T15:46:42 IST" name="Default suite" finished-at="2025-02-04T15:46:50 IST" duration-ms="8510">
     <groups>
     </groups>
-    <test started-at="2025-02-03T10:25:17 IST" name="Default test" finished-at="2025-02-03T10:25:21 IST" duration-ms="3587">
-      <class name="session_16.createMultipleUser">
-        <test-method signature="createUserUsingJSONList()[pri:0, instance:session_16.createMultipleUser@6574a52c]" started-at="2025-02-03T10:25:17 IST" name="createUserUsingJSONList" finished-at="2025-02-03T10:25:21 IST" duration-ms="3549" status="PASS">
+    <test started-at="2025-02-04T15:46:42 IST" name="Default test" finished-at="2025-02-04T15:46:50 IST" duration-ms="8510">
+      <class name="session_17.JacksonApiDemo">
+        <test-method signature="createUser()[pri:0, instance:session_17.JacksonApiDemo@5afa3c9]" started-at="2025-02-04T15:46:42 IST" name="createUser" finished-at="2025-02-04T15:46:50 IST" duration-ms="8471" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUserUsingJSONList -->
-      </class> <!-- session_16.createMultipleUser -->
+        </test-method> <!-- createUser -->
+      </class> <!-- session_17.JacksonApiDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

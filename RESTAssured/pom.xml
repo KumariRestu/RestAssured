@@ -36,7 +36,12 @@
     <version>2.18.2</version>
 </dependency>
 
-  	
+
+  	<dependency>
+  		<groupId>com.hcm</groupId>
+  		<artifactId>Automation</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 
 </project>

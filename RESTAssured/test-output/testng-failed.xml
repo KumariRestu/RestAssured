@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session_15.JSONObjectUsingJavaMapDemo">
+      <class name="session_17.JacksonApiDemo">
         <methods>
           <include name="createUser"/>
         </methods>
-      </class> <!-- session_15.JSONObjectUsingJavaMapDemo -->
+      </class> <!-- session_17.JacksonApiDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
