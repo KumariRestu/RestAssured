@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session_17.JacksonApiDemo">
+      <class name="session_18.UploadFileDemo">
         <methods>
-          <include name="createUser"/>
+          <include name="uploadImage"/>
         </methods>
-      </class> <!-- session_17.JacksonApiDemo -->
+      </class> <!-- session_18.UploadFileDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
