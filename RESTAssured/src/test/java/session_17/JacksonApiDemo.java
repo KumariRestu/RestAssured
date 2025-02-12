@@ -41,7 +41,7 @@ public class JacksonApiDemo {
 
 		userDetails.set("TechSkill", techSkills);
 
-		// print userDetails JSON on=bject
+		// print userDetails JSON object
 		try {
 			String userDetailsAsString = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(userDetails);
 			System.out.println("Created JSON Node is : " + userDetailsAsString);

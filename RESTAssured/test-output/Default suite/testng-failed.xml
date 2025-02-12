@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session_18.UploadFileDemo">
+      <class name="session_19.OwnApiTesting">
         <methods>
-          <include name="uploadImage"/>
+          <include name="deleteuserData"/>
+          <include name="setUpDefault"/>
         </methods>
-      </class> <!-- session_18.UploadFileDemo -->
+      </class> <!-- session_19.OwnApiTesting -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
