@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="session_19.OwnApiTesting">
+      <class name="session_22.DemoNestedJSONPayload">
         <methods>
-          <include name="deleteuserData"/>
-          <include name="setUpDefault"/>
+          <include name="createUser"/>
         </methods>
-      </class> <!-- session_19.OwnApiTesting -->
+      </class> <!-- session_22.DemoNestedJSONPayload -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
